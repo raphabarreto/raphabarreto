@@ -30,4 +30,4 @@ Me chamo Raphael Barreto e sou Desenvolvedor Full Stack ➡ Focado nas tecnologi
 - [GoBarber](https://github.com/raphabarreto/gobarber-api)
 --- 
 
-🙏 Muito obrigado à todos e críticas são sempre-vinda! 🙏
+<h2 align="center">🙏 Muito obrigado à todos e críticas são sempre bem-vindas! 🙏</h2>
