@@ -22,12 +22,13 @@ Me chamo Raphael Barreto e sou Desenvolvedor Full Stack ➡ Focado nas tecnologi
 🙋‍♂️Eu ajudo empresas que querem usar a ⚡ Stack JavaScript | React | React Native ⚡ para construírem apps inovadores que tenham impacto na transformação na vida das pessoas. 🚀 
 
 ---
-## 🛠 Projetos que desenvolvi 🛠
+## 🛠 Principais projetos desenvolvidos 🛠
 
 - [FastFeet](https://github.com/raphabarreto/fastfeet)
 - [Ecoleta](https://github.com/raphabarreto/ecoleta)
 - [Meu Blog](https://raphabarreto.com.br/)
 - [GoBarber](https://github.com/raphabarreto/gobarber-api)
+- [Outros repositórios de estudos](https://github.com/raphabarreto?tab=repositories)
 --- 
 
 <h2 align="center">🙏 Muito obrigado à todos e críticas são sempre bem-vindas! 🙏</h2>
