@@ -7,7 +7,7 @@
 ---
 - 🌱 Atualmente estou estudando: **Node.js, ReactJS, React Native e TypeScript**
 
-- 👨‍💻 Você pode encontrar todos os meus projetos em [no meu Github](https://github.com/raphabarreto?tab=repositories)
+- 👨‍💻 Você pode encontrar todos os meus projetos [no meu Github](https://github.com/raphabarreto?tab=repositories)
 
 - 📝 Eu escrevo posts no meu blog **https://raphabarreto.com.br/**
 
