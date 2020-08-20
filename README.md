@@ -8,6 +8,7 @@
 
 <h4 align="center">🚀 Desenvolvedor Full Stack ➡ Focado nas tecnologias ReactJS, React Native e NodeJS 🚀</h4>
 
+
 ---
 - 🌱 Atualmente estou estudando: **Node.js, ReactJS, React Native e TypeScript**
 
