@@ -1,8 +1,23 @@
 <h1 align="center">
   <img alt="Logo"src="https://github.com/raphabarreto/raphabarreto/blob/master/assets/logo-background.png?raw=true" />
 </h1>
-<h1 align="center">Olá 👋, muito prazer em te conhecer! 😄</h1>
-<h3 align="center">🚀 Desenvolvedor Full Stack ➡ Focado nas tecnologias ReactJS, React Native e NodeJS 🚀</h3>
+
+```js
+               Olá 👋, muito prazer em te conhecer! 😄
+```
+
+```js
+                     🚀 Sou Desenvolvedor Full Stack 🚀
+
+                      ⏩ Focado nas tecnologias ⏪ 
+
+                            🌟 JavaScript 🌟
+                            🌟 TypeScript 🌟
+                              🌟 Node.js 🌟
+                              🌟 ReactJS 🌟
+                            🌟React Native🌟 
+                      
+```
 
 ---
 - 🌱 Atualmente estou estudando: **Node.js, ReactJS, React Native e TypeScript**
