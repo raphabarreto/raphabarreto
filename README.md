@@ -4,12 +4,8 @@
 
 <h2 align="center">Olá 👋, muito prazer em te conhecer! 😄</h2>
 
----
-
 <h4 align="center">🚀 Desenvolvedor Full Stack ➡ Focado nas tecnologias ReactJS, React Native e NodeJS 🚀</h4>
 
-
----
 - 🌱 Atualmente estou estudando: **Node.js, ReactJS, React Native e TypeScript**
 
 - 👨‍💻 Você pode encontrar todos os meus projetos [no meu Github](https://github.com/raphabarreto?tab=repositories)
